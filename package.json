@@ -1,0 +1,19 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-rename": "^1.2.0",
+    "gulp-template": "^3.0.0",
+    "promptosaurus": "^1.0.1",
+    "request": "^2.53.0",
+    "template": "^0.12.6"
+  }
+}
